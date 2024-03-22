@@ -1,4 +1,4 @@
-from cryptography.fernet import Fernet   #Crpytography module to encrypt the passwords present in the text file
+from cryptography.fernet import Fernet   #Cryptography module to encrypt the passwords present in the text file
 import os.path  #Provides functions for paths
 
 #Generates Key
